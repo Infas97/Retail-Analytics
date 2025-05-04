@@ -1,2 +1,19 @@
-# Retail-Analytics
-This project features a dynamic Retail Analytics KPI Dashboard created using Power BI. The dashboard is designed to provide key insights into sales, customer behavior, and operational efficiency for a retail business. It incorporates advanced analytical techniques and visually engaging elements to help stakeholders make informed decisions.
+# Retail Analytics KPI Dashboard
+A dynamic Power BI dashboard providing actionable insights into sales, customer behavior, and operational efficiency for retail businesses.
+
+# Features
+top customer contribution.
+
+Yearly sales and profit trends.
+
+Interactive filters for deeper insights.
+
+Region and market breakdown analysis.
+
+# Technologies Used
+Power BI for visualization.
+
+DAX for advanced calculations.
+
+
+# Screenshots
